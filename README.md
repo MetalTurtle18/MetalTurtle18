@@ -1,7 +1,7 @@
 ### Welcome to my README
 
-- 🔭 I’m currently working on [IdleBot](https://github.com/CamShaft54/IdleBot)
-- 🌱 I’m currently learning Java and Kotlin
+- 🔭 I’m currently working on [PeriodicTableApp](https://github.com/MetalTurtle18/PeriodicTableApp)
+- 🌱 I’m currently [learning Kotlin](https://github.com/MetalTurtle18/kotlin-learning)
 - 💬 Ask me about anything
 - 📫 How to reach me: ¯\\_(ツ)_/¯
 - ⚡ Fun fact: I use GitHub
