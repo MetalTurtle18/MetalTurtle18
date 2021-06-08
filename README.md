@@ -1,6 +1,6 @@
 ### Welcome to my README
 
-- 🔭 I’m currently working on [PeriodicTableApp](https://github.com/MetalTurtle18/PeriodicTableApp)
+- 🔭 I’m currently working on a private Discord bot
 - 🌱 I’m currently [learning Kotlin](https://github.com/MetalTurtle18/kotlin-learning)
 - 💬 Ask me about anything
 - 📫 How to reach me: ¯\\_(ツ)_/¯
