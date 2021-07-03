@@ -1,6 +1,8 @@
 ### Welcome to my README
 
-- 🔭 I’m currently working on a private Discord bot
+I primarily use Java, but I also know Python, and I am learning Kotlin. I am also learning HTML, CSS, and JavaScript (and maybe Ruby?) (and maybe Swift?).
+
+- 🔭 I’m currently working on a [Discord Bot](https://github.com/Reevak05/StudentCommunityBot)
 - 🌱 I’m currently [learning Kotlin](https://github.com/MetalTurtle18/kotlin-learning)
 - 💬 Ask me about anything
 - 📫 How to reach me: ¯\\_(ツ)_/¯
