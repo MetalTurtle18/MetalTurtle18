@@ -24,14 +24,14 @@
 ### I know  
 <div align="center">  
 <a href = "https://www.python.org"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  </a>
-<!--<a href = "https://www.raspberrypi.org"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  </a>
-<a href = "https://www.adobe.com/products/photoshop.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  </a>-->
+<a href = "https://www.raspberrypi.org"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  </a>
+<a href = "https://www.adobe.com/products/photoshop.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  </a>
 <a href = "https://git-scm.com"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  </a>
-<!--<a href = "https://www.arduino.cc"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  </a>-->
+<a href = "https://www.arduino.cc"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  </a>
 <a href = "https://java.com/en/"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  </a>
 <a href = "https://kotlinlang.org"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  </a>
-<!--<a href = "https://www.adobe.com/products/illustrator.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  </a>
-<a href = "https://www.adobe.com/products/premiere.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  </a>-->
+<a href = "https://www.adobe.com/products/illustrator.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  </a>
+<a href = "https://www.adobe.com/products/premiere.html"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  </a>
 <a href = "https://www.w3.org/TR/CSS/#css"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  </a>
 <a href = "https://html.spec.whatwg.org/multipage/"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  </a>
 <a href = "https://www.latex-project.org"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  </a>
@@ -74,6 +74,7 @@
 
 <!--here is a lot of useless information-->
 
+<!--commented out because it looks bad and is useless
 ## <div align="center">Other Stuff I Use</div>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -98,6 +99,7 @@
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 
 <br/>
+-->
 
 ## <div align="center">Connect With Me</div>
 
