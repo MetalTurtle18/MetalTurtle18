@@ -51,10 +51,10 @@
 <img alt="PyCharm" src="https://shields.io/badge/-pycharm-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=pycharm&color=black"/>
 <img alt="Git" src="https://shields.io/badge/-git-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=git&color=%23F05032"/>
 <img alt="MongoDB" src="https://shields.io/badge/-mongodb-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=mongodb&color=%2347A248"/>
-<img alt="Docker" src="https://shields.io/badge/-dockers-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=docker&color=%232496ED"/>
+<img alt="Docker" src="https://shields.io/badge/-docker-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=docker&color=%232496ED"/>
 <img alt="Gradle" src="https://shields.io/badge/-gradle-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=gradle&color=%2302303A"/>
 <img alt="Netlify" src="https://shields.io/badge/-netlify-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=netlify&color=%2300C7B7"/>
-<img alt="Raspberry Pi" src="https://shields.io/badge/-raspberrypi-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=raspberry%20pi&color=%23A22846"/>
+<img alt="Raspberry Pi" src="https://shields.io/badge/-raspberry%20pi-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=raspberry%20pi&color=%23A22846"/>
 <img alt="Wireguard" src="https://shields.io/badge/-wireguard-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=wireguard&color=%2388171A"/>
 <img alt="Adobe Creative Cloud" src="https://shields.io/badge/-adobe%20creative%20cloud-white?style=for-the-badge&logoColor=white&logoWidth=20&logo=adobe%20creative%20cloud&color=%23DA1F26"/>
 </div>
