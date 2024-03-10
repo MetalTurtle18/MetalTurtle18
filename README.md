@@ -1,10 +1,10 @@
 # <div align="center">Welcome to my GitHub README</div>
   
 
-- 🔭 I’m currently working on a Personal Blog Website in Svelte
+- 🔭 I’m currently suffering through MATLAB outside of GitHub
 
 
-- 🌱 I’m currently learning numerous web technologies
+- 🌱 I’m currently a **non-cs** college student
 
 
 - 📫 How to reach me: [dekolis@dekolis.com](mailto:dekolis@dekolis.com)
